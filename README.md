@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **henokaragaw17@gmail.com**
 
-- ⚡ Fun fact **I am smart**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/22293210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22293210" height="30" width="40" /></a>
