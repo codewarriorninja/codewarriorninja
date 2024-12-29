@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Henok!<br><br>🔭 I’m currently working on:<br>Freelancer in frontend development.<br><br>👯 I’m looking to collaborate on:<br>Working with other developers on exciting projects.<br><br>💬 Ask me about:<br>Frontend development and state management.<br><br>⚡ Fun fact:<br>I love exploring new tech and improving my skills!
+👋 Hi, I’m Henok!<br><br>🔭 I’m currently working on:<br>Freelancer in frontend development.<br><br>👯 I’m looking to collaborate on:<br>Working with other developers on exciting projects.<br><br>💬 Ask me about:<br>Frontend development and state managements.<br><br>⚡ Fun fact:<br>I love exploring new tech and improving my skills!
 
 
 ## 🌐 Socials:
